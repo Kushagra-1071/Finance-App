@@ -1,4 +1,5 @@
 ﻿using Backend.Data;
+using Backend.Helpers;
 using Backend.Interface;
 using Backend.Models;
 using Microsoft.AspNetCore.Http.HttpResults;
@@ -34,9 +35,20 @@ namespace Backend.Repository
 
         }
 
-        public async Task<List<Comments>> GetAllAsync()
+        public async Task<List<Comments>> GetAllAsync(CommentQueryObject queryObject)
         {
-            return await _context.Comments.Include(a => a.AppUser).ToListAsync();
+            var comments=_context.Comments.Include(a => a.AppUser).AsQueryable();
+
+            if(!string.IsNullOrWhiteSpace(queryObject.Symbol))
+            {
+                comments = comments.Where(s => s.Stock.Symbol == queryObject.Symbol);
+
+            };
+            if(queryObject.IsDescending==true)
+            {
+                comments = comments.OrderByDescending(c => c.CreatedOn);
+            }
+            return await comments.ToListAsync();
         }
 
         public async Task<Comments?> GetByIdAsync(int id)

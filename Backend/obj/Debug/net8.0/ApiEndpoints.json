@@ -97,14 +97,14 @@
   {
     "ContainingType": "Backend.Controllers.CommentController",
     "Method": "Create",
-    "RelativePath": "api/Comment/{stockId}",
+    "RelativePath": "api/Comment/{symbol}",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "stockId",
-        "Type": "System.Int32",
+        "Name": "symbol",
+        "Type": "System.String",
         "IsRequired": true
       },
       {
@@ -130,6 +130,22 @@
     "Method": "AddPortfolio",
     "RelativePath": "api/Portfolio",
     "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Controllers.PortfolioController",
+    "Method": "DeletePortfolio",
+    "RelativePath": "api/Portfolio",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

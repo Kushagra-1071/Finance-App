@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\helpers\\commentqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:helpers\\commentqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\services\\fmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:services\\fmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|c:\\users\\kusha\\downloads\\finance-app\\backend\\interface\\ifmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75F2FF3-551E-466E-A421-0D6453F3B889}|Backend.csproj|solutionrelative:interface\\ifmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,81 +50,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommentMapper.cs",
-              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Mappers\\CommentMapper.cs",
-              "RelativeDocumentMoniker": "Mappers\\CommentMapper.cs",
-              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Mappers\\CommentMapper.cs",
-              "RelativeToolTip": "Mappers\\CommentMapper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:30:57.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Controllers\\StockController.cs",
-              "RelativeToolTip": "Controllers\\StockController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:28:46.356Z",
+              "WhenOpened": "2024-10-15T11:26:33.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAgwDsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:20:49.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Repository\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CommentRepository.cs",
-              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Repository\\CommentRepository.cs",
-              "RelativeToolTip": "Repository\\CommentRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:20:41.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Interface\\ICommentRepository.cs",
-              "RelativeDocumentMoniker": "Interface\\ICommentRepository.cs",
-              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Interface\\ICommentRepository.cs",
-              "RelativeToolTip": "Interface\\ICommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:20:31.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAFIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:09:29.833Z",
+              "WhenOpened": "2024-10-13T15:35:18.471Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentQueryObject.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Helpers\\CommentQueryObject.cs",
+              "RelativeDocumentMoniker": "Helpers\\CommentQueryObject.cs",
+              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Helpers\\CommentQueryObject.cs",
+              "RelativeToolTip": "Helpers\\CommentQueryObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:34:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Interface\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Interface\\ICommentRepository.cs",
+              "RelativeToolTip": "Interface\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:30:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Repository\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:30:05.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:05:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FMPService.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Services\\FMPService.cs",
+              "RelativeDocumentMoniker": "Services\\FMPService.cs",
+              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Services\\FMPService.cs",
+              "RelativeToolTip": "Services\\FMPService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:37:54.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFMPService.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Interface\\IFMPService.cs",
+              "RelativeDocumentMoniker": "Interface\\IFMPService.cs",
+              "ToolTip": "C:\\Users\\kusha\\Downloads\\Finance-App\\Backend\\Interface\\IFMPService.cs",
+              "RelativeToolTip": "Interface\\IFMPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:36:18.913Z"
             }
           ]
         }
